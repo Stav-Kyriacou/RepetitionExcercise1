@@ -1,0 +1,16 @@
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.csprojAssemblyReference.cache
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.AssemblyInfoInputs.cache
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.AssemblyInfo.cs
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.csproj.CoreCompileInputs.cache
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.exe
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.deps.json
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.runtimeconfig.json
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.runtimeconfig.dev.json
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.dll
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\ref\RepetitionExercise1.dll
+C:\Users\101610510\Projects\RepetitionExercise1\bin\Debug\net5.0\RepetitionExercise1.pdb
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.dll
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\ref\RepetitionExercise1.dll
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.pdb
+C:\Users\101610510\Projects\RepetitionExercise1\obj\Debug\net5.0\RepetitionExercise1.genruntimeconfig.cache
